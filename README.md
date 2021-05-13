@@ -1,2 +1,2 @@
 # Laser-Tag
-Scratch Griffpatch game
+[Scratch Griffpatch game](https://piw-piw.github.io/Laser-Tag/game)
