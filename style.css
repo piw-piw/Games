@@ -3,3 +3,6 @@
     {"src": "favicon.png", "type": "image/png"}
   ]
 }
+body {
+  background-color: "black";
+}
