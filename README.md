@@ -10,3 +10,6 @@
 
 ## Przyszłość
 Możliwe, że będzie dostępna opcja zmiany nicku w projektach.
+
+[Ustawienia](https://piw-piw.github.io/Games/settings)\
+[Zobacz](https://piw-piw.github.io/Games/username), czy działa.
