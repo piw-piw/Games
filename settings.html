@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Ustawienia (eksperymentalne)</title>
+  </head>
+  <body>
+    <input type="text" id="username">
+    <button onclick="set()">Ustaw</button>
+    <script>
+      function set() {
+        localStorage.setItem("name", document.getElementbyId('username').value)
+      }
+    </script>
+  </body>
+</html>
