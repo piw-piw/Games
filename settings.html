@@ -8,7 +8,7 @@
     <hr>
     Nick: <a id="nick"></a>
     <script>
-      document.getElementbyId('username').value = localStorage.getItem("name");
+      document.getElementById('username').value = localStorage.getItem("name");
       function set() {
         localStorage.setItem("name", document.getElementById('username').value);
         document.getElementById('username').value = localStorage.getItem("name");
