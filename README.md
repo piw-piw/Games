@@ -7,3 +7,6 @@
 
 
 ## [Zaproponuj grę](https://github.com/piw-piw/Games/discussions/new)
+
+## Przyszłość
+Możliwe, że będzie dostępna opcja zmiany nicku w projektach.
