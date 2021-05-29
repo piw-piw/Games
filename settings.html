@@ -5,9 +5,13 @@
   <body align="center">
     <input type="text" id="username">
     <button onclick="set()">Ustaw</button>
+    <hr>
+    Nick: <a id="nick"></a>
     <script>
+      document.getElementbyId('username').value = localStorage.getItem("name");
       function set() {
-        localStorage.setItem("name", document.getElementbyId('username').value)
+        localStorage.setItem("name", document.getElementbyId('username').value);
+        document.getElementbyId('username').value = localStorage.getItem("name");
       }
     </script>
   </body>
