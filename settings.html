@@ -8,10 +8,10 @@
     <hr>
     Nick: <a id="nick"></a>
     <script>
-      document.getElementById('username').value = localStorage.getItem("name");
+      document.getElementById('nick').value = localStorage.getItem("name");
       function set() {
         localStorage.setItem("name", document.getElementById('username').value);
-        document.getElementById('username').value = localStorage.getItem("name");
+        document.getElementById('nick').value = localStorage.getItem("name");
       }
     </script>
   </body>
